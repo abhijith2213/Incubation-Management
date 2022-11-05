@@ -1,0 +1,12 @@
+.home {
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .bgImg{
+    height: 510px;
+    /* padding-left: 370px; */
+  
+  }
